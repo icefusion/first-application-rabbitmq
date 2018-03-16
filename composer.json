@@ -1,0 +1,12 @@
+{
+    "name": "willrocker/first-application-rabbitmq",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.7"
+    },
+    "authors": [
+        {
+            "name": "willrocker",
+            "email": "icefusion@icefusion.com.br"
+        }
+    ]
+}
